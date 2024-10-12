@@ -11,26 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemistry, University of Illinois Urbana-Champaign, 2027 (expected)
+* B.S. in Chemistry, University of Liverpool, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+<!-- * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: The Users -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023 - Present: Research Assistant
+  * University of Illinois Urbana-Champaign
+  * Relavent field: Finite-Temperature Many-Body Perturbation Theory
+  * Supervisor: Prof. So Hirata
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022 - Spring 2023: Teaching Assistant
+  * University of Illinois Urbana-Champaign
+  * Duties included: CHEM 442 taught by Prof. David Woon, CHEM 440 taught by Prof. Martin Gruebele
   
 Skills
 ======
@@ -46,7 +44,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
